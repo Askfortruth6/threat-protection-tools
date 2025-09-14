@@ -9,26 +9,20 @@
 - [Jotti's Malware Scan – فری اسکین](https://virusscan.jotti.org)
 
 
-
-
-
 ### 🌐 آئی پی اور نیٹ ورک چیک
 - [WhatIsMyIP – اپنا آئی پی دیکھیں](https://whatismyipaddress.com)
 - [IP Location – آئی پی کی لوکیشن چیک کریں](https://iplocation.net)
 - [DNS Leak Test – DNS لیک چیک کریں](https://dnsleaktest.com)
-
-
-
 
 ### 🛡️ پرائیویسی ٹولز
 - [PrivacyTools – پرائیویسی بہتر بنانے کے وسائل](https://www.privacytools.io)
 - [Have I Been Pwned – ای میل ہیکنگ چیک کریں](https://haveibeenpwned.com)
 - [SSL Labs Test – ویب سائٹ سکیورٹی چیک کریں](https://www.ssllabs.com/ssltest/)
 
-
-
-
 ### 🧹 میلویئر کلیننگ ٹولز
 - [Malwarebytes Free – اینٹی میلویئر](https://www.malwarebytes.com)
 - [AdwCleaner – ایڈویئر کلینر](https://www.malwarebytes.com/adwcleaner)
 - [Kaspersky Virus Removal Tool – فری اسکین/ریموول](https://www.kaspersky.com/downloads/thank-you/free-virus-removal-tool)
+
+“Congratulations. This browser is configured to use Tor.”
+https://check.torproject.org/
